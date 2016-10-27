@@ -1,0 +1,9 @@
+﻿body{
+    padding: 1em;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    max-width: 50px;
+}
