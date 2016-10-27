@@ -1,5 +1,8 @@
-# About
-Web API service with OAuth authentication (Bearer access token)
+## About
+Web API service with OAuth authentication (Bearer access token) for Wep API service with out ASP.NET MVC. Single Page Application example.
 
-# Blog post (rus)
-[Tutorial article](http://www.calabonga.net/blog/post/184)
+## Screenshot
+![screenshot](/Screenshot.png)
+
+## Blog post (rus)
+The [tutorial](http://www.calabonga.net/blog/post/184).
