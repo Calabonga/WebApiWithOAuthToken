@@ -5,9 +5,9 @@ Web API service with OAuth authentication (Bearer access token) for Wep API serv
 ![screenshot](/Screenshot.png)
 
 ## Blog post (rus)
-The [tutorial](http://www.calabonga.net/blog/post/184).
+The [tutorial](https://www.calabonga.net/blog/post/web-api-avtorizaciya-bearer-s-podderzhkoi-cookies).
 
 ## Some tutorial pictures
-![tutorial-0](http://www.calabonga.net/uploads/images/184/184-20.PNG)
+![tutorial-0](https://www.calabonga.net/uploads/web-api-avtorizaciya-bearer-s-podderzhkoi-cookies/184-20.PNG)
 
-![tutorial-0](http://www.calabonga.net/uploads/images/184/184-30.png)
+![tutorial-0](https://www.calabonga.net/uploads/web-api-avtorizaciya-bearer-s-podderzhkoi-cookies/184-30.png)
